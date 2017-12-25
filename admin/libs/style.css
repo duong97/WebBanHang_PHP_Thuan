@@ -1,0 +1,18 @@
+.container-fluid{position: relative;}
+.lmbtnctn{
+	position: absolute;
+	bottom: 15px;
+	left: 48%;
+}
+#tbl-sanpham-list{position: relative; margin-bottom: 70px;}
+.table{text-align: center;}
+.work-space{
+	margin: 10px 0px;
+	padding: 20px;
+}
+img{height: 60px;}
+#add, #del, #edit{display: none;}
+.item{width: 100%; height: 50px; border: 1px solid blue; position: relative;}
+.item input{margin-left: -11px!important;}
+.item img{height: 100%; position: absolute; left: 20px;}
+.item h3{position: absolute; left: 90px; bottom: 0; font-weight: bold;}
